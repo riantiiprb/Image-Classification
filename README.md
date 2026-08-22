@@ -16,6 +16,15 @@ The project covers:
 - Model evaluation
 - Image classification
 
+## Libraries Used
+- TensorFlow / Keras — for building, training, and evaluating the CNN model.
+- NumPy — for numerical computations and array manipulation.
+- Pandas — for data processing and analysis.
+- Matplotlib — for data visualization and plotting training results.
+- Seaborn — for statistical visualization and confusion matrix visualization.
+- Scikit-learn — for model evaluation, including classification reports and confusion matrices.
+- Pillow (PIL) — for image processing and manipulation.
+
 ## Dataset
 The dataset used in this study consists of digital images of four major food commodities: apples, tomatoes, oranges, and potatoes. Each commodity is categorized into two freshness levels, namely fresh and rotten, resulting in a total of eight classes. The dataset is designed to support image classification using computer vision techniques to distinguish between fresh and rotten food products.
 
