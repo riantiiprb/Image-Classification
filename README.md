@@ -1,4 +1,4 @@
-# CNN-Based Classification Using ResNet50 Transfer Learning
+# CNN-Based Fruit Freshness Classification Model to Support Automated Sorting and Quality Control with ResNet50 Transfer Learning
 
 An image classification project developed as part of the Komputasi Statistika II practicum at Universitas Gadjah Mada (UGM) to classify the freshness condition of fruits and potatoes based on images.
 The model classifies images into 8 categories consisting of fresh and rotten apples, oranges, potatoes, and tomatoes.
